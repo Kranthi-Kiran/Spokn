@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Spokn</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="newUser">Create an Account</string>
+    <string name="forgotpass">Forgot Password?</string>
+
+    <!--Speech to Text Credentials-->
+    <string name="categoryFinder">Name five Things Related to </string>
+
+    <string name="speech_text_username">db86e06c-309b-4c32-8e38-c36a2470872b</string>
+     
+    <string name="speech_text_password">Rr51p0bjbK1Y</string>
+     
+    <string name="STTdefaultTokenFactory">https://stream.watsonplatform.net/speech-to-text/api</string>
+     
+
+    <!-- default model/voice -->
+    <string name="modelDefault">en-US_BroadbandModel</string>
+    <string name="voiceDefault">en-US_MichaelVoice</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="challenge_info">Info</string>
+    <string name="backdrop_title">Challenges</string>
+    <string name="backdrop_subtitle">Choose any exercise</string>
+
+</resources>

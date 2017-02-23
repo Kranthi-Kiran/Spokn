@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "619621985238",
+    "project_id": "firebase-spokn"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619621985238:android:bea0a2ea8e3d64da",
+        "android_client_info": {
+          "package_name": "com.application.spokn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619621985238-ln02j060b44ca2g88lp2p29sq4pb0uqd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.application.spokn",
+            "certificate_hash": "f27926e589bfba8e03f1361e5e799c72b84f52d6"
+          }
+        },
+        {
+          "client_id": "619621985238-6g607r02rsumva4cn5po2biltqk844f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5v3UqUQlqlDoudDxdcnv82GZciTQaIzQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

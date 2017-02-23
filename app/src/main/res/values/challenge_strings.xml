@@ -1,0 +1,24 @@
+<resources>
+    <!-- Challenge Card String -->
+
+    <string name="challenge1_name">Your day, with a twist</string>
+    <string name="challenge1_short">Word recall</string>
+    <string name="challenge1_long">Talk for a full 60 seconds about your day while creatively
+        integrating the given four words into your speech</string>
+
+    <string name="challenge2_name">Five second game</string>
+    <string name="challenge2_short">Filler words</string>
+    <string name="challenge2_long">After given a category you will have “5” seconds to name 3 things related to that category.
+        The catch is you can’t hesitate!</string>
+
+    <string name="challenge3_name">Talk your heart out</string>
+    <string name="challenge3_short">Free speech</string>
+    <string name="challenge3_long">Rant, persuade, gossip, argue, complain, spill your feelings out,
+        improvise or casually talk about anything you want for a full minute and get to know your speaking habits.</string>
+
+    <string name="challenge4_name">Cat got your tongue?</string>
+    <string name="challenge4_short">Tongue twisters</string>
+    <string name="challenge4_long">Repeat the prompt correctly, the quicker you can repeat it, the higher the score.
+    Make sure to announciate!</string>
+
+</resources>
